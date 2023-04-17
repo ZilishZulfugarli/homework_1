@@ -1,3 +1,4 @@
 101-Yanğınsöndürmə
 102-Polis
 103-Təcili yardım
+104-Qaz idarəsi
