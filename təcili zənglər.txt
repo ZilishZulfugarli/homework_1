@@ -2,3 +2,5 @@
 102-Polis
 103-Təcili yardım
 104-Qaz idarəsi
+112-Azərbaycan Respublikasının Fövqəladə Hallar Nazirliyi
+
